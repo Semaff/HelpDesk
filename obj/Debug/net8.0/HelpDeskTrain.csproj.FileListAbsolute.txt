@@ -1,0 +1,4 @@
+C:\Users\Family\source\repos\HelpDeskTrain\obj\Debug\net8.0\HelpDeskTrain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Family\source\repos\HelpDeskTrain\obj\Debug\net8.0\HelpDeskTrain.AssemblyInfoInputs.cache
+C:\Users\Family\source\repos\HelpDeskTrain\obj\Debug\net8.0\HelpDeskTrain.AssemblyInfo.cs
+C:\Users\Family\source\repos\HelpDeskTrain\obj\Debug\net8.0\HelpDeskTrain.csproj.CoreCompileInputs.cache
